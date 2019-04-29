@@ -46,4 +46,4 @@ Webブラウザでコメントを投稿するWebアプリケーションの練�
     $ source venv/bin/activate
     (venv) $ pip install -e ./norilog
 
-3. setup.pyをリポジトリにコミットする
+3. setup.pyとrequirements.txtをリポジトリにコミットする
