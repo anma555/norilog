@@ -39,7 +39,7 @@ Webブラウザでコメントを投稿するWebアプリケーションの練�
 ---------------------
 
 1. ``setup.py``の``install_requires``を更新する
-2. 以下の手順で環境を更新する
+2. 以下の手順で環境を更新する::
 
     (venv) $ deactivate
     $ python3.6 -m venv --clear venv
